@@ -31,7 +31,7 @@ This shell bypasses the security firewall on web security.<br>
 ## How To Use
 This shell login Page With 500 Server Error
 
-You can use parameter exploit ?ghost=shell in your urls.
+You can use parameter exploit `?ghost=shell` in your urls.
 
 Example:
 
