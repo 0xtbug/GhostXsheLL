@@ -29,8 +29,7 @@ This shell bypasses the security firewall on web security.<br>
 ![sssss](https://user-images.githubusercontent.com/54710482/75033985-c0107b80-54de-11ea-9209-f98c400b3766.JPG)
 
 ## How To Use
-This shell login Page With 500 Server Error
-
+This login page protected with 500 Server Error.
 You can use parameter exploit `?ghost=shell` in your urls.
 
 Example:
